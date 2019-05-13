@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-app/static/css/main.7a31dfc1.chunk.css",
+    "main.js": "/dice-app/static/js/main.746e80d1.chunk.js",
+    "main.js.map": "/dice-app/static/js/main.746e80d1.chunk.js.map",
+    "runtime~main.js": "/dice-app/static/js/runtime~main.02aad080.js",
+    "runtime~main.js.map": "/dice-app/static/js/runtime~main.02aad080.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/dice-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/dice-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/dice-app/index.html",
+    "precache-manifest.bfff7f30fd15ff28cef41e102d9de568.js": "/dice-app/precache-manifest.bfff7f30fd15ff28cef41e102d9de568.js",
+    "service-worker.js": "/dice-app/service-worker.js",
+    "static/css/main.7a31dfc1.chunk.css.map": "/dice-app/static/css/main.7a31dfc1.chunk.css.map"
+  }
+}
